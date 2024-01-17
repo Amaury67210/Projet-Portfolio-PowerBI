@@ -2,7 +2,9 @@ Projet PowerBI : Rapport de vente de pizza
 
 Projet personnel - Obernai (Projet personnel, de janvier 2024 à janvier 2024)
 
+
 Contexte du projet :
+
 
 Projet guidé sur l’outil Power BI afin de démontrer mes compétences sur cet outil. Exploration de tous les aspects d’un projet Power BI.
 
@@ -32,7 +34,9 @@ Création d’une nouvelle page contenant le top 5 des meilleures et des pires p
 
 Re-design visuel afin de rendre le rapport visuel plus attractif.
 
+
 Environnement technique, métier et fonctionnel :
+
 
 Fichier CSV pour le stockage des données.
 
